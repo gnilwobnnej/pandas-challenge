@@ -1,0 +1,7 @@
+Based on the data there are more students that are passing reading than there are passing maths.
+
+The top 5 performing schools are all charter schools and the bottom 5 performing schools are those from the district. 
+
+The amount of spending per student does not make the grades any better. Quite the opposite, the ones that spend less per student have better overall grades.
+
+The smaller the school size the better the scores and over all charter schools have the most passing students over district. 

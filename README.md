@@ -9,3 +9,9 @@ it already had this filled out. # Use the following to calculate the percentage 
 I'll pretend all the filled in math is correct. all looks okay. 
 
 Finishing for the night - ending at Math scores by grade ---
+
+4/12/23
+starting back up at maths score by grade.
+
+some pre written code is giving me error in the maths scores by grade and reading. just comment them out so I don't go crazy.
+
